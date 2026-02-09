@@ -27,7 +27,7 @@ langgraph = "^1.0.0"           # Stable 1.0.1 (Oct 20, 2025)
 langgraph-checkpoint = "^3.0.0"  # Compatible with LangGraph 1.0+
 langgraph-checkpoint-sqlite = "^3.0.1"  # SQLite checkpoint storage
 langgraph-prebuilt = "^1.0.0"  # Required by LangGraph 1.0.1
-langsmith = "^0.4.0"           # Compatible with LangChain 1.0
+langsmith = "^0.6.3"           # Compatible with LangChain 1.0
 deepagents = "^0.2.0"          # Stable 0.2.0 (Oct 28, 2025) - Released TODAY!
 
 # Database
